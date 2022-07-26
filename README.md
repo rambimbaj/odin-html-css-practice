@@ -1,2 +1,2 @@
 # CSS-Practice
-Odin Projec
+Odin Project
