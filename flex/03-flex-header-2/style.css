@@ -50,7 +50,7 @@ ul {
   gap:15px;
 }
 
-.leftside, .rightside{
+.leftside, .rightside {
     display:flex;
     align-items:center;
     gap:15px;
